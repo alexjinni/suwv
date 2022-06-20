@@ -10,34 +10,13 @@
       "filterable": 1
     },
     {
-      "key": "csp_xpath_网络搜集库huaya",
-      "name": "虎牙🎤",
-      "type": 3,
-      "api": "csp_XPath",
+      "key": "lezhu",
+      "name": "乐猪爬虫",
+      "type": 1,
+      "api": "http://pandown.pro/maoys/lezhu.php",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/huya.js"
-    },
-    {
-      "key": "csp_xpath_网络搜集库qiumi",
-      "name": "球迷🏀",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/516-qiumi.js"
-    },
-    {
-      "key": "csp_xpath_A33",
-      "name": "MTV🎸",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/mtv"
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_LiteApple",
@@ -84,6 +63,34 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "M3U8TV",
+      "name": "M3U8TV",
+      "type": 0,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_xpath_A33",
+      "name": "MTV🎸",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/mtv"
     },
     {
       "key": "csp_AliPanSou",
@@ -532,6 +539,26 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": ""
+    },
+    {
+      "key": "csp_xpath_网络搜集库huaya",
+      "name": "虎牙🎤",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/huya.js"
+    },
+    {
+      "key": "csp_xpath_网络搜集库qiumi",
+      "name": "球迷🏀",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/516-qiumi.js"
     },
     {
       "key": "csp_CZSPP",
