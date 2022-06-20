@@ -2,15 +2,6 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "pglblb",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_77",
       "name": "七七🏀",
       "type": 3,
       "api": "csp_Kunyu77",
@@ -47,15 +38,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/X/mtv"
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长🐞",
-      "type": 3,
-      "api": "csp_CZSPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_LiteApple",
@@ -550,6 +532,15 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": ""
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长🐞",
+      "type": 3,
+      "api": "csp_CZSPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "push_agent",
