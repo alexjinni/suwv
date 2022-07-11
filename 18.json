@@ -315,7 +315,7 @@
 {"key":"*天噜啦资源","name":"*天噜啦资源","type":0,"api":"http://www.987caiji.com/api/max.php"},
 {"key":"*CK资源(VPN)","name":"*CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*CK资源","name":"*CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml"},
-{"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/"},
+{"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","playUrl":"https://99zy.pw/template/99zy/mp4play.php?url=","categories":[],"quickSearch":0},
 {"key":"*花椒","name":"*花椒","type":0,"api":"https://cj.apihjzy.com/inc/api.php"},
 {"key":"*Y水机资源","name":"*Y水机资源","type":1,"api":"https://www.xrbsp.com/api/json.php","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*美少女资源","name":"*美少女资源","type":1,"api":"https://www.msnii.com/api/json.php","playUrl":"","categories":[],"quickSearch":0},
