@@ -455,19 +455,22 @@
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name":"自动线路","type": 2,"url": "Parallel"},
 {"name": "playerjy/B站","type": 1,"url": "https://jx.playerjy.com/?url="},
+{"name": "新龙虾","type": 1,"url": "http://81.71.48.249:4433/iphone/100.php?url="},
+
+
+
 {"name":"BL222","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["ltnb"]}},
 {"name": "综合/B站","type": 1,"url": "https://jx.bozrc.com:4433/player/?url="},
-{"name": "纯净/B站","type": 1,"url": "https://z1.m1907.cn/?jx="},
 {"name": "天翼高速接口","type": 1,"url": "https://jsap.attakids.com/?url="},
 {"name": "OK解析","type": 1,"url": "https://okjx.cc/?url="},
 {"name": "OK解析2","type": 1,"url": "https://api.okjx.cc:3389/jx.php?url="},
-{"name": "夜幕","type": 1,"url": "https://www.yemu.xyz/?url="},
 {"name": "爱豆","type": 1,"url": "https://jx.aidouer.net/?url="},
 {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="},
 {"name": "M3U8.TV","type": 1,"url": "https://jx.m3u8.tv/jiexi/?url="},
 {"name": "全民","type": 1,"url": "https://jx.quanmingjiexi.com/?url="},
 {"name": "PPJ解析","type": 1,"url": "https://jx.ppjbk.cn/?url="},
 {"name": "PPJ弹幕解析2","type": 1,"url": "https://bf.ppjbk.cn/bf/?url="},
+
 {"name": "云端","type": 1,"url": "https://sb.5gseo.net/?url="},
 {"name": "CK","type": 1,"url": "https://www.ckplayer.vip/jiexi/?url="},
 {"name": "H8","type": 1,"url": "https://www.h8jx.com/jiexi.php?url="},
@@ -476,14 +479,16 @@
 {"name": "盘古","type": 1,"url": "https://www.pangujiexi.cc/jiexi.php?url="},
 {"name": "盖世","type": 1,"url": "https://www.gai4.com/?url="},
 {"name": "老板","type": 1,"url": "https://vip.laobandq.com/jiexi.php?url="},
-{"name": "0523","type": 1,"url": "https://go.yh0523.cn/y.cy?url="},
-{"name": "17云","type": 1,"url": "https://www.1717yun.com/jx/ty.php?url="},
 {"name": "4K","type": 1,"url": "https://jx.4kdv.com/?url="},
 {"name": "云析","type": 1,"url": "https://jx.yparse.com/index.php?url="},
 {"name": "无名小站","type": 1,"url": "https://www.administratorw.com/video.php?url="},
 {"name": "解95","type": 1,"url": "https://660e.com/?url=","ext":{"flag":["优酷视频","爱奇艺","芒果视频","乐视","搜狐视频","腾讯视频","pptv","1905电影网","cntv","华数","b站","rrm3u8","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","芒果","mgtv","xigua","wuduzy","bilibili","pptv","leduo","leshi","Clk4","哔哩","renrenmi","ltnb","rx"]}},
 
 /*/以下无效
+{"name": "0523","type": 1,"url": "https://go.yh0523.cn/y.cy?url="},
+{"name": "17云","type": 1,"url": "https://www.1717yun.com/jx/ty.php?url="},
+{"name": "夜幕","type": 1,"url": "https://www.yemu.xyz/?url="},
+{"name": "纯净/B站","type": 1,"url": "https://z1.m1907.cn/?jx="},
 {"name": "百域","type": 1,"url": "https://jx.618g.com/?url="},
 {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
 {"name": "BL2","type": 1,"url": "https://svip.bljiex.cc/?v="},
