@@ -10,7 +10,7 @@
     {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🐼Auete影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🐼Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"酷猫巧技","name":"Q😾酷猫影视(SP)","type": 3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg;md5;e55959c3da426a2c528e220332b76a3a","spider":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg;md5;e55959c3da426a2c528e220332b76a3a"},
+    {"key":"酷猫","name":"Q😾酷猫影视(SP)","type": 3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg;md5;e55959c3da426a2c528e220332b76a3a","spider":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg;md5;e55959c3da426a2c528e220332b76a3a"},
     {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -34,7 +34,7 @@
     {"key":"AliPS","name":"🐱盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key":"FindZY","name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-
+    
     {"key": "csp_xpath_网络搜集库qiumi","name": "球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {"key": "Bili","name":"B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/MaooXB2/bili.json"},
     {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/MaooXB2/huya2.json"},
