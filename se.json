@@ -2,15 +2,6 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/alexjinni/suwv/main/se.jar",
 "sites": [ 
 {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-},
-{
       "key": "咪咪",
       "name": "咪咪",
       "type": 0,
